@@ -1,0 +1,17 @@
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\TwinGame.Form1.resources
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\TwinGame.Properties.Resources.resources
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\TwinGame.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\TwinGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\TwinGame.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\TwinGame.AssemblyInfo.cs
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\TwinGame.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\TwinGame\TwinGame\bin\Debug\net8.0-windows\TwinGame.exe
+C:\Users\hakan\source\repos\TwinGame\TwinGame\bin\Debug\net8.0-windows\TwinGame.deps.json
+C:\Users\hakan\source\repos\TwinGame\TwinGame\bin\Debug\net8.0-windows\TwinGame.runtimeconfig.json
+C:\Users\hakan\source\repos\TwinGame\TwinGame\bin\Debug\net8.0-windows\TwinGame.dll
+C:\Users\hakan\source\repos\TwinGame\TwinGame\bin\Debug\net8.0-windows\TwinGame.pdb
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\TwinGame.dll
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\refint\TwinGame.dll
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\TwinGame.pdb
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\TwinGame.genruntimeconfig.cache
+C:\Users\hakan\source\repos\TwinGame\TwinGame\obj\Debug\net8.0-windows\ref\TwinGame.dll

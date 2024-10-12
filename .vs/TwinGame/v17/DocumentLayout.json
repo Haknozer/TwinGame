@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hakan\\source\\repos\\TwinGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1C1A7E-E62F-4776-9B3B-690033875562}|TwinGame\\TwinGame.csproj|c:\\users\\hakan\\source\\repos\\twingame\\twingame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1C1A7E-E62F-4776-9B3B-690033875562}|TwinGame\\TwinGame.csproj|solutionrelative:twingame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1C1A7E-E62F-4776-9B3B-690033875562}|TwinGame\\TwinGame.csproj|C:\\Users\\hakan\\source\\repos\\TwinGame\\twingame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F1C1A7E-E62F-4776-9B3B-690033875562}|TwinGame\\TwinGame.csproj|solutionrelative:twingame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\TwinGame\\TwinGame\\Form1.cs",
+              "RelativeDocumentMoniker": "TwinGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\TwinGame\\TwinGame\\Form1.cs*",
+              "RelativeToolTip": "TwinGame\\Form1.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:49:52.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\TwinGame\\TwinGame\\Form1.cs",
+              "RelativeDocumentMoniker": "TwinGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\TwinGame\\TwinGame\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TwinGame\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:41:18.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
